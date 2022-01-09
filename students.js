@@ -1,4 +1,4 @@
-students = ["Galih","bastian","yuki"];
+students = ["Asep","bambang","ucok"];
 
 
 module.exports = students;
